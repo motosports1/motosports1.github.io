@@ -1,0 +1,86 @@
+.fondo{
+font-family: arial, helvetica;
+background: rgba(0, 0, 0, 0.80);
+}
+
+
+
+.menu {
+list-style: none;
+padding: 0;
+background: rgba(255,0,0,0.80);
+width: 90%;
+max-width: 1000px;
+margin: auto;
+
+}
+
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 20px;
+display: block;
+}
+
+.menu li{
+display: inline-block;
+text-align: center;
+
+
+}
+.menu li a:hover{
+	background: #ef8354;
+
+}
+
+
+.encabezado, .menudecontenido, footer {
+	background-color:rgba(255, 0, 0,0.90);
+	width: 80%;
+	max-width: 1000;
+	padding: 10px;
+	margin: 20px auto;
+text-decoration: none;
+list-style: none;
+	}
+	.menudecontenido{
+
+background-color:rgba(0, 0, 0,0.90);
+	} 
+
+
+.encabezado {
+	border-color: rgb(0, 0, 0);
+	border-width: 3px;
+	border-style: solid;
+}
+
+
+
+.t1 {
+color: rgb(235, 173, 0);
+}
+
+.t2 {
+
+color: rgb(235, 173, 0);
+
+}
+
+.t3 {
+
+	color: rgb(235, 173, 0);
+
+}
+
+.p1 {
+color: rgb(255,255 ,255 );	
+}
+
+.p2 {
+color: rgb(255,255 ,255 );	
+}
+
+.p3 {
+color: rgb(255,255 ,255 );	
+}

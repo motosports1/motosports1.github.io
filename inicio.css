@@ -1,0 +1,70 @@
+.body{
+font-family: arial, helvetica;
+background: rgba(0, 0, 0, 0.80);
+}
+
+
+
+.menu {
+list-style: none;
+padding: 0;
+background: rgba(255,0,0,0.80);
+width: 90%;
+max-width: 1000px;
+margin: auto;
+
+}
+
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 20px;
+display: block;
+}
+
+.menu li{
+display: inline-block;
+text-align: center;
+
+
+}
+.menu li a:hover{
+	background: #ef8354;
+
+}
+
+
+.encabezado, .menudecontenido, footer {
+	background-color:rgba(255, 0, 0,0.90);
+	width: 80%;
+	max-width: 1000;
+	padding: 10px;
+	margin: 20px auto;
+text-decoration: none;
+list-style: none;
+	}
+	.menudecontenido{
+
+background-color:rgba(0, 0, 0,0.90);
+	} 
+
+
+.encabezado {
+	border-color: #00008B;
+	border-width: 3px;
+	border-style: solid;
+}
+.mision {
+color: rgb(239,184,16);
+}	
+.txmision {
+	color: rgb(255,255,255);
+}
+.vs {
+color: rgb(239,184,16);	
+}
+.txps {
+	color: rgb(255,255,255);
+}
+
+
